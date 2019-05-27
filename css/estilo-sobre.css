@@ -1,0 +1,79 @@
+body {
+    background-color: #f7f7f7;
+}
+
+.navbar-nav {
+    margin-left: 17%;
+}
+
+.navbar-nav li {
+    font-size: 18px;
+    margin-left: 10%;
+    text-transform: uppercase;
+}
+
+.navbar-nav li a {
+    color: #9d9d9d;
+    font-family: 'Poppins', sans-serif;
+}
+
+.navbar-nav li a:hover {
+    color: #2d97d3;
+}
+
+.carousel-caption h3 {
+    text-transform: uppercase;
+}
+
+.texto-apresentacao {
+    margin-left: 20%;
+    margin-right: 20%;
+    text-align: justify;
+}
+
+.scrollToTop {   
+    position:fixed;
+    top:75px; 
+    right:40px;
+    display:none;
+}
+
+button a {
+    text-align: center;
+}
+
+#empresa {
+    display: flex;
+	flex-direction: row;
+	justify-content: space-between;
+    align-items: center;
+    list-style-type: none;
+}
+
+.card {
+    margin-left: 2%;
+}
+
+.container #empresa {
+    margin-top: 3%;
+}
+
+.recuo { 
+    text-indent:4em;
+}
+
+footer {
+    margin-top: 10%;
+}
+
+.redes {
+    color: white;
+}
+
+.text-footer {
+    text-align: justify;
+}
+
+a {
+    color: black;
+}
